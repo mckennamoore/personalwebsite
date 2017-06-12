@@ -2,5 +2,25 @@ body{
 	background-color:#ffffff;
 	}
 	
-.inner{
+.inner{}
+
+@font-face{
+	font-family:mermaid;
+	src:url(Mermaid1001.ttf);
+}
+	
+h1{
+	font-family:mermaid;
+	text-align:center;
+	font-size:55px;
+}
+
+h2{
+	font-family:mermaid;
+	text-align:center;
+	font-size: 35px;
+}
+
+.item{
+	
 	
