@@ -8,6 +8,10 @@ body{
 	font-family:mermaid;
 	src:url(Mermaid1001.ttf);
 }
+@font-face{
+	font-family:vinegar;
+	src:url(Vinegar-Regular.otf);
+}
 	
 h1{
 	font-family:mermaid;
@@ -22,6 +26,16 @@ h2{
 	line-height:25px;
 }
 
+nav{
+	align-content:center;
+}
+
 .item{
+	float:left;
+	margin: 5px;
+	font-family:vinegar;
+	font-size:15px;
+	text-align:center;
+}
 	
 	
