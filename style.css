@@ -55,6 +55,9 @@ nav{
 .subitem:hover .subitem{
 	display:visible;
 }
-	
+
+.stopfloat{
+	clear:both
+}
 	
 	
