@@ -2,7 +2,10 @@ body{
 	background-color:#ffffff;
 	}
 	
-.inner{}
+.inner{
+	margin:auto
+	width: 800px;
+}
 
 @font-face{
 	font-family:mermaid;
@@ -23,7 +26,7 @@ h2{
 	font-family:mermaid;
 	text-align:center;
 	font-size: 25px;
-	line-height:0px;
+	margin-top:-40px;
 }
 
 nav{
